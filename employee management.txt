@@ -1,0 +1,10 @@
+step1:start
+step2:give a task to your employee.
+step3:identify the performance of employee.
+step4:the work done by employee is relavent to task or not.
+step5:identify effort,skills of employee.
+step6:the task is nice to perform employee give appreciation.
+step7:if the employee not done well,then give another chance.
+step8:if he perform well,he will be worked.
+step9:if not done well,he can leave the job.
+step10:stop.

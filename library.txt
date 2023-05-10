@@ -1,0 +1,12 @@
+Library management system
+step1:start
+step2:Enter into library.
+step3:sign on the login registered.
+step4:HE/she check whether we were ware id card or not.
+step5:Then ask your registered book.
+step6:Ask what we want book.
+step7: Her checks we are sudmit and return books on time or any fine.
+step8:Then give the book.
+step9:Sign on your registered book.
+step10:sign on login out book.
+step11:stop.

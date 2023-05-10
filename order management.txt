@@ -1,0 +1,8 @@
+step1:start
+step2:choose app or search near by restaurent or hotel.
+step3:search what we want food item.
+step4:see the price.
+step5:choose payment method.
+step6:order it.
+step7:conform it.
+step8:stop.
