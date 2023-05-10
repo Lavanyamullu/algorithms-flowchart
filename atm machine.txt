@@ -1,0 +1,15 @@
+step1:start
+step2:Insert your card.
+step3:read the card by machine.
+step4:checks whether valid or not.
+step5:then choose the language.
+step6:then choose account type.
+step7:then choose transaction type.
+step8:then enter your pin.
+step9:checks valid or not.
+step10:If pin valid give money.
+step11:if pin is not valid then ask reenter pin.
+step12:collect money.
+step13:machine gives reciept.
+step14:Ask to show balance.
+step15:stop.
